@@ -5,6 +5,19 @@ This repository contains the code for an end-to-end pipeline for asthma classifi
 
 ## Repo structure
 
+asthma-classification/
+├── data/
+│   ├── raw/
+│   │   ├── survey-data/        # Raw NHANES .xpt survey and lab files
+│   │   └── variable-names/     # Variable mapping metadata
+│   ├── processed/              # Cleaned/merged datasets, if generated
+├── notebooks/                  # Exploratory analysis notebooks
+├── src/                        # Reusable data-processing code
+├── .gitignore
+└── README.md
+
+## Data
+
 ## Requirements and setup
 
 ## Run training
