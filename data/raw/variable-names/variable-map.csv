@@ -1,195 +1,389 @@
 Variable Name,Variable Description,Data File Name,Data File Description,Begin Year,EndYear,Component,Use Constraints
+SEQN,Respondent sequence number.,UCPREG_L,Urine Pregnancy Test,2021,2023,Laboratory,None
 URXPREG,Urine Pregnancy Result,UCPREG_L,Urine Pregnancy Test,2021,2023,Laboratory,None
+LBXAGP,alpha-1-acid glycoprotein (g/L),AGP_L,alpha-1-Acid Glycoprotein,2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,AGP_L,alpha-1-Acid Glycoprotein,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,AGP_L,alpha-1-Acid Glycoprotein,2021,2023,Laboratory,None
 LBDFERSI,Ferritin(µg/L),FERTIN_L,Ferritin,2021,2023,Laboratory,None
+LBXFER,Ferritin(ng/mL),FERTIN_L,Ferritin,2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,FERTIN_L,Ferritin,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,FERTIN_L,Ferritin,2021,2023,Laboratory,None
 LBDTFRSI,Transferrin receptor (nmol/L),TFR_L,Transferrin Receptor,2021,2023,Laboratory,None
+LBXTFR,Transferrin receptor (mg/L),TFR_L,Transferrin Receptor,2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,TFR_L,Transferrin Receptor,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 MEC Weight,TFR_L,Transferrin Receptor,2021,2023,Laboratory,None
 LBDBANO,Basophils number (1000 cells/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBDEONO,Eosinophils number (1000 cells/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBDLYMNO,Lymphocyte number (1000 cells/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBDMONO,Monocyte number (1000 cells/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBDNENO,Segmented neutrophils number (1000 cell/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXBAPCT,Basophils percent (%),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXEOPCT,Eosinophils percent (%),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXHCT,Hematocrit (%),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXHGB,Hemoglobin (g/dL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXLYPCT,Lymphocyte percent (%),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXMC,Mean cell hemoglobin concentration (g/dL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXMCHSI,Mean cell hemoglobin (pg),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXMCVSI,Mean cell volume (fL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXMOPCT,Monocyte percent (%),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXMPSI,Mean platelet volume (fL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXNEPCT,Segmented neutrophils percent (%),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXNRBC,Nucleated red blood cells (/100 WBC),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXPLTSI,Platelet count (1000 cells/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXRBCSI,Red blood cell count (million cells/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBXRDW,Red cell distribution width (%),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 LBXWBCSI,White blood cell count (1000 cells/uL),CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+SEQN,Respondent sequence number.,CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,CBC_L,Complete Blood Count with 5-Part Differential in Whole Blood,2021,2023,Laboratory,None
+LBDRFO,RBC folate (ng/mL),FOLATE_L,Folate - RBC,2021,2023,Laboratory,None
 LBDRFOSI,RBC folate (nmol/L),FOLATE_L,Folate - RBC,2021,2023,Laboratory,None
+SEQN,Respondent sequence number,FOLATE_L,Folate - RBC,2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,FOLATE_L,Folate - RBC,2021,2023,Laboratory,None
+LBD17HLC,17α-hydroxyprogesterone Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBD17HSI,17α-hydroxyprogesterone (nmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDAMHLC,Anti-Mullerian hormone Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDAMHSI,Anti-Mullerian hormone (pmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDANDLC,Androstenedione Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDANDSI,Androstenedione (nmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDDHELC,Dehydroepiandrosterone sulfate Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDDHESI,Dehydroepiandrosterone sulfate (µmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDES1LC,Estrone Sulfate Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDES1SI,Estrone Sulfate (pmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDESOLC,Estrone Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDESOSI,Estrone (pmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDESTLC,Estradiol Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDESTSI,Estradiol (pmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDFSHLC,Follicle Stimulating Hormone Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDLUHLC,Luteinizing Hormone Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDPG4LC,Progesterone Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDPG4SI,Progesterone (nmol/L),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDSHGLC,Sex Hormone Binding Globulin Comment Code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDTSTLC,Testosterone comment code,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBDTSTSI,"Testosterone, total (nmol/L)",TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBX17H,17α-hydroxyprogesterone (ng/dL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBXAMH,Anti-Mullerian hormone (ng/mL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBXAND,Androstenedione (ng/dL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBXDHE,Dehydroepiandrosterone sulfate (µg/dL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBXES1,Estrone Sulfate (pg/mL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBXESO,Estrone (ng/dL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBXEST,Estradiol (pg/mL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBXFSH,Follicle Stimulating Hormone (mIU/mL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBXLUH,Luteinizing Hormone (mIU/mL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBXPG4,Progesterone (ng/dL),TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBXSHBG,"Sex Hormone Binding Globulin (SHBG, nmol/L)",TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+LBXTST,"Testosterone, total (ng/dL)",TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,TST_L,Sex Steroid Hormone Panel - Serum,2021,2023,Laboratory,None
 LBDINLC,Insulin Comment Code,INS_L,Insulin,2021,2023,Laboratory,None
+LBDINSI,Insulin (pmol/L),INS_L,Insulin,2021,2023,Laboratory,None
 LBXIN,Insulin (uU/mL),INS_L,Insulin,2021,2023,Laboratory,None
+SEQN,Respondent sequence number.,INS_L,Insulin,2021,2023,Laboratory,None
 WTSAF2YR,Fasting Subsample 2 Year MEC Weight,INS_L,Insulin,2021,2023,Laboratory,None
+LBDGLUSI,Fasting Glucose (mmol/L),GLU_L,Plasma Fasting Glucose,2021,2023,Laboratory,None
 LBXGLU,Fasting Glucose (mg/dL),GLU_L,Plasma Fasting Glucose,2021,2023,Laboratory,None
+SEQN,Respondent sequence number,GLU_L,Plasma Fasting Glucose,2021,2023,Laboratory,None
 WTSAF2YR,Fasting Subsample 2 Year MEC Weight,GLU_L,Plasma Fasting Glucose,2021,2023,Laboratory,None
+PHAALCHR,"The time (in hours) the examinee last drank alcohol suchs as beer, wine, or liquor.",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHAALCMN,"The time (in minutes) the examinee last drank alcohol such as beer, wine, or liquor.",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHAANTHR,"The time (in hours) the examinee last had antacids, laxatives or anti-diarrheals.",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHAANTMN,"The time (in minutes) the examinee last had antacids, laxatives or anti-diarrheals.",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHACOFHR,The time (in hours) since the examinee last drank coffee or tea with cream or sugar.,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHACOFMN,The time (in minutes) since the examinee last drank coffee or tea with cream or sugar.,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHAFSTHR,The time (in hours) between when the examinee last ate or drank anything other than water and the time of the venipuncture.,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHAFSTMN,The time (in minutes) between when the examinee last ate or drank anything other than water and the time of the venipuncture.,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHAGUMHR,"The time (in hours) the examinee last had gum, breath mints, lozenges or cough drops, or other cough or cold remedies.",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHAGUMMN,"The time (in minutes) the examinee last had gum, breath mints, lozenges or cough drops, or other cough or cold remedies.",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHASUPHR,The time (in hours) the examinee last had dietary supplements such as vitamins and minerals.,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHASUPMN,The time (in minutes) the examinee last had dietary supplements such as vitamins and minerals.,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHDSESNZ,Session in which SP was examined,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHQ020,Coffee or tea with cream or sugar? [Include milk or non-dairy creamers.],FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHQ030,"Alcohol, such as beer, wine, or liquor?",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHQ040,"Gum, breath mints, lozenges or cough drops, or other cough or cold remedies?",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+PHQ050,"Antacids, laxatives, or anti-diarrheals?",FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 PHQ060,Dietary supplements such as vitamins and minerals? [Include multivitamins and single nutrient supplements.],FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
+SEQN,Respondent sequence number.,FASTQX_L,Fasting Questionnaire,2021,2023,Laboratory,None
 LBXGH,Glycohemoglobin (%),GHB_L,Glycohemoglobin,2021,2023,Laboratory,None
+SEQN,Respondent sequence number.,GHB_L,Glycohemoglobin,2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,GHB_L,Glycohemoglobin,2021,2023,Laboratory,None
+LBDFOT,Serum total folate (ng/mL),FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBDFOTSI,Serum total folate (nmol/L),FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
+LBDSF1LC,5-Methyl-tetrahydrofolic comment code,FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBDSF2LC,Folic acid comment code,FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
+LBDSF3LC,5-Formyl-tetrahydrofolate comment code,FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBDSF4LC,Tetrahydrofolate comment code,FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
+LBDSF5LC,"5,10-Methenyl-tetrahydrofolate comment code",FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBDSF6LC,Mefox oxidation product comment code,FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
+LBXSF1SI,5-Methyl-tetrahydrofolate (nmol/L),FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBXSF2SI,Folic acid (nmol/L),FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
+LBXSF3SI,5-Formyl-tetrahydrofolate (nmol/L),FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBXSF4SI,Tetrahydrofolate (nmol/L),FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
+LBXSF5SI,"5,10-Methenyl-tetrahydrofolate (nmol/L)",FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBXSF6SI,Mefox oxidation product (nmol/L),FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
+SEQN,Respondent sequence number,FOLFMS_L,Serum Folate Forms - Total & Individual - Serum,2021,2023,Laboratory,None
 LBDVD2LC,25-hydroxyvitamin D2 comment code,VID_L,Vitamin D,2021,2023,Laboratory,None
+LBDVD3LC,25-hydroxyvitamin D3 comment code,VID_L,Vitamin D,2021,2023,Laboratory,None
 LBDVE3LC,epi-25-hydroxyvitamin D3 comment code,VID_L,Vitamin D,2021,2023,Laboratory,None
+LBDVIDLC,25-hydroxyvitamin D2 + D3 comment code,VID_L,Vitamin D,2021,2023,Laboratory,None
 LBXVD2MS,25-hydroxyvitamin D2 (nmol/L),VID_L,Vitamin D,2021,2023,Laboratory,None
+LBXVD3MS,25-hydroxyvitamin D3 (nmol/L),VID_L,Vitamin D,2021,2023,Laboratory,None
 LBXVE3MS,epi-25-hydroxyvitamin D3 (nmol/L),VID_L,Vitamin D,2021,2023,Laboratory,None
+LBXVIDMS,25-hydroxyvitamin D2 + D3,VID_L,Vitamin D,2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,VID_L,Vitamin D,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,VID_L,Vitamin D,2021,2023,Laboratory,None
 LBDBCDLC,Blood cadmium comment code,PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBDBCDSI,Blood cadmium (nmol/L),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 LBDBMNLC,Blood manganese comment code,PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBDBMNSI,Blood manganese (nmol/L),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 LBDBPBLC,Blood lead comment code,PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBDBPBSI,Blood lead (umol/L),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 LBDBSELC,Blood selenium comment code,PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBDBSESI,Blood selenium (umol/L),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 LBDTHGLC,"Blood mercury, total comment code",PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBDTHGSI,"Blood mercury, total (nmol/L)",PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 LBXBCD,Blood cadmium (ug/L),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBXBMN,Blood manganese (ug/L),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 LBXBPB,Blood lead (ug/dL),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBXBSE,Blood selenium(ug/L),PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 LBXTHG,"Blood mercury, total (ug/L)",PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+SEQN,Respondent sequence number,PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,PBCD_L,"Lead, Cadmium, Total Mercury, Selenium, & Manganese – Blood",2021,2023,Laboratory,None
+LBDBGELC,"Mercury, ethyl comment code",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
 LBDBGESI,"Mercury, ethyl (nmol/L)",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
+LBDBGMLC,"Mercury, methyl comment code",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
 LBDBGMSI,"Mercury, methyl (nmol/L)",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
+LBDIHGLC,"Mercury, inorganic comment code",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
 LBDIHGSI,"Mercury, inorganic (nmol/L)",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
+LBXBGE,"Mercury, ethyl (ug/L)",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
 LBXBGM,"Mercury, methyl (ug/L)",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
+LBXIHG,"Inorganic mercury, blood (ug/L)",IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,IHGEM_L,"Mercury: Inorganic, Ethyl, and Methyl - Blood",2021,2023,Laboratory,None
 LBXHA,Hepatitis A antibody,HEPA_L,Hepatitis A,2021,2023,Laboratory,None
+SEQN,Respondent sequence number,HEPA_L,Hepatitis A,2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,HEPA_L,Hepatitis A,2021,2023,Laboratory,None
+LBXHBS,Hepatitis B Surface Antibody,HEPB_S_L,Hepatitis B Surface Antibody,2021,2023,Laboratory,None
 SEQN,Respondent sequence number,HEPB_S_L,Hepatitis B Surface Antibody,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,HEPB_S_L,Hepatitis B Surface Antibody,2021,2023,Laboratory,None
 LBDHRPLC,High-Sensitivity C-Reactive Protein (hs-CRP) Comment Code,HSCRP_L,High-Sensitivity C-Reactive Protein,2021,2023,Laboratory,None
+LBXHSCRP,High-Sensitivity C-Reactive Protein (hs-CRP) (mg/L),HSCRP_L,High-Sensitivity C-Reactive Protein,2021,2023,Laboratory,None
 SEQN,Respondent Sequence Number,HSCRP_L,High-Sensitivity C-Reactive Protein,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,HSCRP_L,High-Sensitivity C-Reactive Protein,2021,2023,Laboratory,None
 LBDHDD,Direct HDL-Cholesterol (mg/dL),HDL_L,Cholesterol – High-Density Lipoprotein,2021,2023,Laboratory,None
+LBDHDDSI,Direct HDL-Cholesterol (mmol/L),HDL_L,Cholesterol – High-Density Lipoprotein,2021,2023,Laboratory,None
 SEQN,Respondent Sequence Number,HDL_L,Cholesterol – High-Density Lipoprotein,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,HDL_L,Cholesterol – High-Density Lipoprotein,2021,2023,Laboratory,None
 LBDTCSI,Total Cholesterol (mmol/L),TCHOL_L,Cholesterol - Total,2021,2023,Laboratory,None
+LBXTC,Total Cholesterol (mg/dL),TCHOL_L,Cholesterol - Total,2021,2023,Laboratory,None
 SEQN,Respondent Sequence Number,TCHOL_L,Cholesterol - Total,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,TCHOL_L,Cholesterol - Total,2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
+URDACT,Albumin creatinine ratio (mg/g),ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
 URDUCRLC,"Creatinine, urine comment code",ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
+URDUMALC,"Albumin, urine comment code",ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
 URXCRS,"Creatinine, urine (umol/L)",ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
+URXUCR,"Creatinine, urine (mg/dL)",ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
 URXUMA,"Albumin, urine (ug/mL)",ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
+URXUMS,"Albumin, urine (mg/L)",ALB_CR_L,Albumin & Creatinine - Urine,2021,2023,Laboratory,None
 LBDP1ALC,Arachidic acid (C20:0) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDP1ELC,11-Eicosenoic acid (C20:1n-9) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDP1GLC,Tetracosanoic acid (C24:0) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPANLC,alpha-Linolenic acid (C18:3n-3) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPD3LC,Docosapentaenoic acid 3 (C22:5n-3) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPD6LC,Docosapentaenoic acid (C22:5n-6) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPDALC,Docosanoic acid (C22:0) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPEDLC,"11,14-Eicosadienoic acid (C20:2n6) comment code",FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPGHLC,homo-gamma-Linolenic acd (C20:3n-6) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPHALC,Docosahexaenoic acid (C22:6n-3) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPLGLC,gamma-Linolenic acid (C18:3n6) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPMRLC,Myristic acid (C14:0) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPNLLC,Linoleic acid (C18:2n-6) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPNRLC,15-Tetracosenoic acid (C24:1n9) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPOLLC,Oleic acid (C18:1n-9) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPPELC,Eicosapentaenoic acid (C20:5n-3) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPPLLC,Palmitoleic acid (16:1n-7) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPPMLC,Palmitic acid (C16:0) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPRALC,Arachidonic acid (C20:4n-6) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBDPSTLC,Stearic acid (C18:0) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDPTALC,Docosatetraenoic acid (C22:4n-6) comment code,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXP1A,Arachidic acid (C20:0) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXP1E,11-Eicosenoic acid (C20:1n-9) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXP1G,Tetracosanoic acid (C24:0) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPAN,alpha-Linolenic acid (C18:3n-3) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPD3,Docosapentaenoic acid 3 (C22:5n-3) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPD6,Docosapentaenoic acid (C22:5n-6) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPDA,Docosanoic acid (C22:0) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPED,"11,14-Eicosadienoic acid (C20:2n6) (%)",FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPGH,homo-gamma-Linolenic acid(C20:3n-6) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPHA,Docosahexaenoic acid (C22:6n-3) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPLG,gamma-Linolenic acid (C18:3n-6) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPMR,Myristic acid (C14:0) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPNL,Linoleic acid (C18:2n-6) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPNR,15-Tetracosenoic acid (C24:1n9) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPOL,Oleic acid (C18:1n-9) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPPE,Eicosapentaenoic acid (C20:5n-3) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPPL,Palmitoleic acid (16:1n-7) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPPM,Palmitic acid (C16:0) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPRA,Arachidonic acid (C20:4n-6) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBXPST,Stearic acid (C18:0) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+LBXPTA,Docosatetraenoic acid (C22:4n-6) (%),FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 SEQN,Respondent sequence number.,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,FAR_L,Fatty Acids - Washed RBCs,2021,2023,Laboratory,None
 LBDRF1LC,"5-Methyl-tetrahydrofolate, RBC comment code",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+LBDRF2LC,"Folic acid, RBC comment code",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
 LBDRF3LC,"5-Formyl-tetrahydrofolate, RBC comment code",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+LBDRF4LC,"Tetrahydrofolate, RBC comment code",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
 LBDRF5LC,"5,10-Methenyl-tetrahydrofolate, RBC comment code",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+LBDRF6LC,"MeFox oxidation product, RBC comment code",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
 LBDRF7SI,"Total folate, washed Red Blood Cells (nmol/L)",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+LBXRF1SI,"5-Methyl-tetrahydrofolate, RBC (nmol/L)",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
 LBXRF2SI,"Folic acid, RBC (nmol/L)",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+LBXRF3SI,"5-Formyl-tetrahydrofolate, RBC (nmol/L)",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
 LBXRF4SI,"Tetrahydrofolate, RBC (nmol/L)",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+LBXRF5SI,"5,10-Methenyl-tetrahydrofolate, RBC (nmol/L)",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
 LBXRF6SI,"MeFox oxidation product, RBC (nmol/L)",FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+SEQN,Respondent sequence number.,FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,FFMR_L,Folate Forms - Total & Individual – Washed RBCs,2021,2023,Laboratory,None
+LBDSALSI,"Albumin, refrigerated serum(g/L)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBDSBUSI,Blood Urea Nitrogen (mmol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBDSCASI,Total Calcium (mmol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBDSCHSI,"Total Cholesterol, refrigerated serum (mmol/L)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBDSCRSI,"Creatinine, refrigerated serum (umol/L)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBDSGBSI,Globulin (g/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBDSGLSI,"Glucose, refrigerated serum (mmol/L)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBDSGTLC,Gamma Glutamyl Transferase (GGT) Comment Code,BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBDSIRSI,"Iron, refrigerated serum (umol/L)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBDSPHSI,Phosphorus (mmol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBDSTBLC,Total Bilirubin Comment Code,BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBDSTBSI,Total Bilirubin (umol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBDSTPSI,Total Protein (g/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBDSTRSI,"Triglycerides, refrigerated serum (mmol/L)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBDSUASI,Uric acid (umol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXMAGN,Magnesium (mg/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSAL,"Albumin, refrigerated serum (g/dL)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSAPSI,Alkaline Phosphatase (ALP) (IU/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSASSI,Aspartate Aminotransferase (AST) (IU/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSATSI,Alanine Aminotransferase (ALT) (IU/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSBU,Blood Urea Nitrogen (mg/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSC3SI,Bicarbonate (mmol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSCA,Total Calcium (mg/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSCH,"Total Cholesterol, refrigerated serum (mg/dL)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSCK,Creatine Phosphokinase (CPK) (U/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSCLSI,Chloride (mmol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSCR,"Creatinine, refrigerated serum (mg/dL)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSGB,Globulin (g/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSGL,"Glucose, refrigerated serum (mg/dL)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSGTSI,Gamma Glutamyl Transferase (GGT) (IU/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSIR,"Iron, refrigerated serum (µg/dL)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSKSI,Potassium (mmol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSLDSI,Lactate Dehydrogenase (LDH) (U/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSNASI,Sodium (mmol/L),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSOSSI,Osmolality (mmol/Kg),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSPH,Phosphorus (mg/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSTB,Total Bilirubin (mg/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSTP,Total Protein (g/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBXSTR,"Triglycerides, refrigerated serum (mg/dL)",BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 LBXSUA,Uric acid (mg/dL),BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+SEQN,Respondent Sequence Number,BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,BIOPRO_L,Standard Biochemistry Profile,2021,2023,Laboratory,None
+LBD2DFLC,"Blood 2,5-Dimethylfuran Comment Code",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDV06LC,Blood Hexane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDV07LC,Blood Heptane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDV08LC,Blood Octane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDV1DLC,"Blood 1,2-Dichlorobenzene Comment Code",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDV2ALC,"Blood 1,2-Dichloroethane Comment Code",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDV3BLC,"Blood 1,3-Dichlorobenzene Comment Code",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDV4CLC,Blood Tetrachloroethene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVAPLC,Blood a-pinene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVBFLC,Blood Bromoform Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVBMLC,Blood Bromodichloromethane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVBZLC,Blood Benzene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVC6LC,Blood Cyclohexane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVCBLC,Blood Chlorobenzene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVCFLC,Blood Chloroform Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVCMLC,Blood Dibromochloromethane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVCTLC,Blood Carbon Tetrachloride Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVDBLC,"Blood 1,4-Dichlorobenzene Comment Code",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVEALC,Blood Ethyl Acetate Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVEBLC,Blood Ethylbenzene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVECLC,Blood Chloroethane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVEELC,Blood Diethyl Ether Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVFNLC,Blood Furan Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVHTLC,Blood Tetrahydrofuran Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVIBLC,Blood Isobutyronitrile Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVIPLC,Blood Isopropylbenzene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVMCLC,Blood Methylene Chloride Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVMELC,Blood Methyl-tert-butyl ether (MTBE) Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVMKLC,Blood Methyl Isobutyl Ketone Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVMPLC,Blood Methylcyclopentane Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVOXLC,Blood o-Xylene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVSTLC,Blood Styrene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVTCLC,Blood Trichloroethene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVTELC,"Blood 1,1,1-Trichloroethane Comment Code",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVTOLC,Blood Toluene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVTPLC,"Blood 1,2,3-Trichloropropane Comment Code",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDVXYLC,Blood m-/p-Xylene Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBDVZBLC,Blood Benzonitrile Comment Code,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBX2DF,"Blood 2,5-Dimethylfuran (ng/mL)",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXV06,Blood Hexane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXV07N,Blood Heptane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXV08N,Blood Octane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXV1D,"Blood 1,2-Dichlorobenzene (ng/mL)",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXV2A,"Blood 1,2-Dichloroethane (ng/mL)",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXV3B,"Blood 1,3-Dichlorobenzene (ng/mL)",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXV4C,Blood Tetrachloroethene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVAPN,Blood a-pinene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVBF,Blood Bromoform (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVBM,Blood Bromodichloromethane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVBZ,Blood Benzene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVBZN,Blood Benzonitrile (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVC6,Blood Cyclohexane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVCB,Blood Chlorobenzene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVCF,Blood Chloroform (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVCM,Blood Dibromochloromethane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVCT,Blood Carbon Tetrachloride (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVDB,"Blood 1,4-Dichlorobenzene (ng/mL)",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVDEE,Blood Diethyl Ether (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVEA,Blood Ethyl Acetate (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVEB,Blood Ethylbenzene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVEC,Blood Chloroethane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVFN,Blood Furan (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVIBN,Blood Isobutyronitrile (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVIPB,Blood Isopropylbenzene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVMC,Blood Methylene Chloride (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVMCP,Blood Methylcyclopentane (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVME,Blood Methyl-tert-butyl ether (MTBE) (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVMIK,Blood Methyl Isobutyl Ketone (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVOX,Blood o-Xylene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVST,Blood Styrene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVTC,Blood Trichloroethene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVTE,"Blood 1,1,1-Trichloroethane (ng/mL)",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVTHF,Blood Tetrahydrofuran (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVTO,Blood Toluene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBXVTP,"Blood 1,2,3-Trichloropropane (ng/mL)",VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 LBXVXY,Blood m-/p-Xylene (ng/mL),VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+SEQN,Respondent sequence number.,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
 WTSVOC2Y,VOC Subsample Weight,VOCWB_L,Volatile Organic Compounds and Trihalomethanes/MTBE - Blood,2021,2023,Laboratory,None
+LBDLDL,"LDL-Cholesterol, Friedewald equation (mg/dL). LBDLDL = (LBXTC-(LBDHDD + LBXTR/5), round to 0 decimal places) for LBXTR less than 400 mg/dL, and missing for LBXTR greater than 400 mg/dL. LBDHDD from public release file HDL_J",TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
 LBDLDLM,"LDL-Cholesterol, Martin-Hopkins equation (mg/dL). LBDLDLM = (LBXTC-(LBDHDD + LBXTR/Adjustable Factor), round to 0 decimal places) for LBXTR less than 400 mg/dL, and missing for LBXTR greater than 400 mg/dL. LBDHDD from public release file HDL_J",TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
+LBDLDLN,"LBDLDLN = (LBXTC/0.948 – LBDHDD/0.971 – (LBXTR/8.56 + (LBXTR * (LBXTC – LBDHDD))/2140 – LBXTR^2/16100) – 9.44), round 0 decimal places) for LBXTR less than 800 mg/dL, and missing for LBXTR GE 800 mg/dL. ^2 stands for power=2, or squared. LBDHDD from public release file HDL_J",TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
 LBDLDLSI,"LDL-Cholesterol, Friedewald equation (mmol/L)",TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
+LBDLDMSI,"LDL-Cholesterol, Martin-Hopkins equation (mmol/L)",TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
 LBDLDNSI,"LDL-Cholesterol, NIH equation 2 (mmol/L)",TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
+LBDTRSI,Triglyceride (mmol/L),TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
 LBXTLG,Triglyceride (mg/dL),TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
+SEQN,Respondent sequence number,TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
 WTSAF2YR,Fasting Subsample 2 Year MEC Weight,TRIGLY_L,Cholesterol - Low-Density Lipoproteins (LDL) & Triglycerides,2021,2023,Laboratory,None
+LBDHBG,Hepatitis B surface antigen,HEPBD_L,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D: antibody",2021,2023,Laboratory,None
 LBDHD,Hepatitis D antibody (anti-HDV),HEPBD_L,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D: antibody",2021,2023,Laboratory,None
+LBXHBC,Hepatitis B core antibody,HEPBD_L,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D: antibody",2021,2023,Laboratory,None
 SEQN,Respondent sequence number,HEPBD_L,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D: antibody",2021,2023,Laboratory,None
+WTPH2YR,Phlebotomy 2 Year Weight,HEPBD_L,"Hepatitis B: Core antibody, Surface antigen, and Hepatitis D: antibody",2021,2023,Laboratory,None
 LBDHCI,Hepatitis C Antibody (confirmed),HEPC_L,"Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype",2021,2023,Laboratory,None
+LBXHCG,Hepatitis C Genotype,HEPC_L,"Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype",2021,2023,Laboratory,None
 LBXHCR,Hepatitis C RNA,HEPC_L,"Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype",2021,2023,Laboratory,None
+SEQN,Respondent sequence number.,HEPC_L,"Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype",2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,HEPC_L,"Hepatitis C: RNA (HCV-RNA), Confirmed Antibody (INNO-LIA), & Genotype",2021,2023,Laboratory,None
+LBDHEG,Hepatitis E IgG (anti-HEV),HEPE_L,Hepatitis E: IgG & IgM Antibodies,2021,2023,Laboratory,None
 LBDHEM,Hepatitis E IgM (anti-HEV),HEPE_L,Hepatitis E: IgG & IgM Antibodies,2021,2023,Laboratory,None
+SEQN,Respondent sequence number,HEPE_L,Hepatitis E: IgG & IgM Antibodies,2021,2023,Laboratory,None
 WTPH2YR,Phlebotomy 2 Year Weight,HEPE_L,Hepatitis E: IgG & IgM Antibodies,2021,2023,Laboratory,None
